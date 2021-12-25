@@ -1,0 +1,32 @@
+body {
+    background-color: burlywood;
+    text-align: center;
+}
+img{
+    width: 400px;
+    margin: -5px 0 30px 0;
+}
+p{
+    font-family: 'Comic Sans MS',sans-serif;
+    font-size: 25px;
+    margin: 20px;
+}
+
+input{
+    border: none;
+    border-radius: 6px;
+    height: 25px;
+    width: 194px;
+    margin-bottom: 20px;
+    font-family: 'Comic Sans MS',sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+
+#greet{
+    
+    background: cornsilk;
+    width: auto;
+    font-size: large;
+
+}
